@@ -3,6 +3,7 @@
 - 跟着b站视频，coderwhy老师学习做的项目，[B站视频链接](https://www.bilibili.com/video/BV15741177Eh?p=174)
 --- 
 ### 此处用于记录学习过程中遇到的问题、解决办法和思考
+欢迎访问[我的博客](https://doumjun.github.io/vuepress.blog/)
 ---
 2020.11.3
 ---
